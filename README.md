@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyleresch
 - 👀 I’m interested in AI and anything linux 
-- 🌱 I’m currently learning Python 
+- 🌱 I know Python and am learning C++
 - 📫 How to reach me on my linkedin: tyleresch
 
 <!---
