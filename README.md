@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Tyleresch
-- 👀 I’m interested in AI and anything linux 
-- 🌱 I know Python and am learning C++
-- 📫 How to reach me on my linkedin: tyleresch
+# Hey, I'm Tyler Esch 
 
-<!---
-Tyleresch/Tyleresch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**CS @ University of Michigan (Honors) | Dec 2025**
+
+Software engineer with experience across the full stack, infrastructure, and AI/ML. I like building things that solve real problems.
+
+## What I've worked on
+- **Visa** — Migrated a $2.5M/yr ML inference service to Kubernetes, cut cost and latency by 5x
+- **Ford Motor Company** — AI/ML research on emerging models for vehicle data streams
+- **Caterpillar** — Python tooling for operational efficiency
+- **[umichsalary.com](https://umichsalary.com) & [edusalary.com](https://edusalary.com)** — Salary transparency sites serving millions of records (React, Next.js, GCP)
+
+## Tech I work with
+`Python` `TypeScript` `Rust` `C/C++` `Java` `React` `Next.js` `Node.js` `FastAPI` `GraphQL` `Kubernetes` `Docker` `Helm` `GCP` `AWS` `SQL` `MongoDB`
+
+## Currently
+- Building automation tools with Python + Playwright
+- Looking for early-career SWE roles and freelance work
+
+## Links
+- [LinkedIn](https://linkedin.com/in/tyler-esch)
+- [Email](mailto:tyleresch29@gmail.com)
