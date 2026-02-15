@@ -1,4 +1,4 @@
-# Hey, I'm Tyler Esch 
+# Hey, I'm Tyler Esch
 
 **CS @ University of Michigan (Honors) | Dec 2025**
 
@@ -8,7 +8,6 @@ Software engineer with experience across the full stack, infrastructure, and AI/
 - **Visa** — Migrated a $2.5M/yr ML inference service to Kubernetes, cut cost and latency by 5x
 - **Ford Motor Company** — AI/ML research on emerging models for vehicle data streams
 - **Caterpillar** — Python tooling for operational efficiency
-- **[umichsalary.com](https://umichsalary.com) & [edusalary.com](https://edusalary.com)** — Salary transparency sites serving millions of records (React, Next.js, GCP)
 
 ## Tech I work with
 `Python` `TypeScript` `Rust` `C/C++` `Java` `React` `Next.js` `Node.js` `FastAPI` `GraphQL` `Kubernetes` `Docker` `Helm` `GCP` `AWS` `SQL` `MongoDB`
