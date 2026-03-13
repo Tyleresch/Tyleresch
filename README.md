@@ -16,6 +16,6 @@ Software engineer with experience across the full stack, infrastructure, and AI/
 - Building automation tools with Python + Playwright
 - Looking for early-career SWE roles and freelance work
 
-## Links
+## Link
 - [LinkedIn](https://linkedin.com/in/tyler-esch)
-- [Email](mailto:tyleresch29@gmail.com)
+
