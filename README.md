@@ -2,6 +2,9 @@
 
 **CS @ University of Michigan (Honors) | Dec 2025**
 
+LOOKING FOR A JOB! 
+
+
 Software engineer with experience across the full stack, infrastructure, and AI/ML. I like building things that solve real problems.
 
 ## What I've worked on
